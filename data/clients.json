@@ -1,0 +1,24 @@
+{
+    "clients": [
+      {
+        "id": 1,
+        "name": "Chicky",
+        "email": "cprothero0@zdnet.com"
+      },
+      {
+        "id": 2,
+        "name": "Ricoriki",
+        "email": "rduddin1@ftc.gov"
+      },
+      {
+        "id": 3,
+        "name": "Binni",
+        "email": "bkelinge2@newyorker.com"
+      },
+      {
+        "id": 4,
+        "name": "Witty",
+        "email": "wladewig3@dyndns.org"
+      } ]
+  }
+

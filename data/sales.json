@@ -1,0 +1,22 @@
+{
+    "sales": [
+      {
+        "id": 1,
+        "clientId": 1,
+        "date": "2023-10-18",
+        "products": [
+          { "productId": 1, "quantity": 3 },
+          { "productId": 2, "quantity": 2 }
+        ]
+      },
+      {
+        "id": 2,
+        "clientId": 2,
+        "date": "2023-10-19",
+        "products": [
+          { "productId": 3, "quantity": 1 }
+        ]
+      }
+    ]
+  }
+ 
